@@ -31,3 +31,9 @@ nav li{
     border-radius: 20px;
     border-width: 3px;
 }
+
+img{
+    border: dotted;
+    margin: 24px;
+    width: 24%;
+}
