@@ -1,0 +1,33 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+}
+
+/* h1,h2,h3{
+    font-weight:bold;
+    margin-top: 15px;
+} */
+
+/* ul li{
+    margin-left: 25px;
+    list-style:upper-roman;
+    list-style-type: none;
+} */
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+nav li{
+    float: left;
+    padding: 10px;
+    background: rgb(133, 214, 226);
+    border: solid;
+    margin: 25px;
+    border-radius: 20px;
+    border-width: 3px;
+}
